@@ -81,5 +81,6 @@
 	<classpathentry kind="lib" path="C:/Users/PROTOCOL/Desktop/Sahsi/SprintQA engineering/Selenium/Selenium java 4.0.0/lib/opentelemetry-semconv-1.6.0-alpha.jar"/>
 	<classpathentry kind="lib" path="C:/Users/PROTOCOL/Desktop/Sahsi/SprintQA engineering/Selenium/Selenium java 4.0.0/lib/reactive-streams-1.0.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/PROTOCOL/Desktop/Sahsi/SprintQA engineering/Selenium/Selenium java 4.0.0/lib/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="lib" path="/SeleniumExamplesChirag/lib/commons-io-2.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
